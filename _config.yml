@@ -1,7 +1,7 @@
 # Site settings
-name: name
-email: email
-url: url
+name: Ahn Sangmin
+email: tjfl9831@gmail.com
+url: https://github.com/sang9831
 description: "A blog and a portfolio"
 author: "author"
 title: "BlogFolio"
@@ -10,7 +10,7 @@ baseurl: /jekyll-theme-blogfolio
 
 # social
 github:
-  username: username
+  username: sang9831
 
 twitter:
   username: username
