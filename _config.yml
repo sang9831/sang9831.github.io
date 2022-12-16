@@ -1,12 +1,12 @@
 # Site settings
 name: Ahn Sangmin
 email: tjfl9831@gmail.com
-url: https://github.com/sang9831
+url: url
 description: "A blog and a portfolio"
 author: "author"
 title: "BlogFolio"
 permalink: pretty
-baseurl: /jekyll-theme-blogfolio
+baseurl: /portfolio
 
 # social
 github:
